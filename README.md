@@ -72,6 +72,7 @@ Click on the following links to skip to the relevant section.
 
 ### Incubators
 - [NextAI (NEXTCanada)](http://www.nextai.com/)
+- [Vector Institute] (http://vectorinstitute.ai/)
 
 ### Learning
 - [IBM Big Data University](https://bigdatauniversity.com/)
